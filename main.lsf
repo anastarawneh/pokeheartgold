@@ -736,7 +736,9 @@ Overlay OVY_27
 Overlay OVY_28
 {
     After OVY_27
-    Object asm/overlay_28.o
+    Object src/overlay_28_0225D520.o
+    Object asm/overlay_28_0225D650.o
+    Object asm/overlay_28_0225D6E0.o
 }
 Overlay OVY_29
 {
